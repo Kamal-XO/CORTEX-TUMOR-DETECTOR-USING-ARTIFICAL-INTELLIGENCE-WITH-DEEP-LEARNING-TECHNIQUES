@@ -35,8 +35,9 @@ The **Cortex Tumor Detector** is a powerful system for automated brain tumor dia
 The system provides output in the form of annotated MRI images highlighting detected tumor regions, accompanied by a confidence score and classification results.  
 
 ### Example Outputs  
-1. MRI with highlighted tumor regions.  
-2. Detailed report with tumor classification and severity index.  
+![output](./ctd.png)
+![output](./acc.png)
+![output](./ac2.png)
 
 ---
 
